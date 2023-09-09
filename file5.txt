@@ -1,1 +1,0 @@
-create file5 in AI_application dir in my labtop
